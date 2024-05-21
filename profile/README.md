@@ -1,14 +1,14 @@
-## Hi Pioners 👋
 
-<!--
+## What is PIO ?
+PIO is a decentralized automated bilateral agreement engine optimized and natively integrated with hedger bot, triparty, and UI frontends for scalability. 
+PIO testnet users can deploy their own hedging bot, trade 1600 assets with deep liquidity and instant trading and deploy their own 20 minutes frontends.
+## ✍🏻 Learn more about Unirep protocol
+- Documentation: [https://developer.unirep.io/](https://developer.pio.finance/)
+- Demo app: https://testnet.pio.finance/
 
-🙋‍♀️ A short introduction - what is your organization all about?
-DeFMI and Derivative backed DeFi.
-🌈 Contribution guidelines - how can the community get involved?
-Find out on Discord :  https://discord.gg/GJV2JdZTFc
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-### https://www.pioner.io/
-### https://tech.pioner.io/
-🍿 Fun facts - what does your team eat for breakfast?
-Derivatives
--->
+## 👀 Demo app built upon Unirep protocol
+- PIO Social 🐝
+   - Github: [https://github.com/Unirep/Unirep-Social](https://github.com/PowerInOTC/PIO-DEX-Mobile-Example)
+   - Website: https://pio.finance
+
+## 👉🏻 [**Join our discord channel**](https://discord.gg/GJV2JdZTFc)
