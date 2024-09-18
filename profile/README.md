@@ -1,1 +1,15 @@
 
+## What is PIO ?
+PIO is a decentralized automated bilateral agreement engine optimized and natively integrated with hedger bot, triparty, and UI frontends for scalability. 
+PIO testnet users can deploy their own hedging bot, trade 1600 assets with deep liquidity and instant trading and deploy their own 20 minutes frontends.
+## ✍🏻 Learn more about PIO protocol
+- Documentation: [https://developer.pio.finance/](https://developer.pio.finance/)
+- Demo app: https://testnet.pio.finance/
+
+## 👀 Demo app built upon PIO protocol
+- PIO Social 🐝
+   - Github: [https://github.com/PowerInOTC](https://github.com/PowerInOTC/)
+   - Website: https://pio.finance
+
+## 👉🏻 [**Join our discord channel**](https://discord.gg/GJV2JdZTFc)
+
